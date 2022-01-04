@@ -1,3 +1,3 @@
-#!/bin/usr/python3
-for i in range(97, 123):
-    print(chr(i), end='')
+#!/usr/bin/python3
+for item in range(97, 123):
+        print("{}".format(chr(item)), end="")

@@ -4,4 +4,3 @@ for numbers in range(100):
         print("{0:02}".format(numbers))
     else:
         print("{0:02}, ".format(numbers), end="")
-

@@ -1,9 +1,12 @@
 #!/usr/bin/python3
 """ The Square Module.
 
-This module contains a class that defines a square and __init__ method that sets its size with
+This module contains a class that defines a
+square and __init__ method that sets its size with
 and Integer only
 """
+
+
 class Square:
     """
      Defines a square that has private instance attribute called 'size'
